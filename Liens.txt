@@ -334,3 +334,7 @@
 [] Naine_rouge
 [] Zone_habitable
 [] HD_140283
+[] Atmosphère_terrestre
+[] Engin_spatial
+[] Satellite_artificiel
+[] Sonde_spatiale
